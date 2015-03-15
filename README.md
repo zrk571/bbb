@@ -1,24 +1,5 @@
 # backbone-bootstrap-boilerplate (bbb)
 ==================================================================
->
-  _                _    _                         
- | |__   __ _  ___| | _| |__   ___  _ __   ___    
- | '_ \ / _` |/ __| |/ / '_ \ / _ \| '_ \ / _ \   
- | |_) | (_| | (__|   <| |_) | (_) | | | |  __/   
- |_.__/ \__,_|\___|_|\_\_.__/ \___/|_| |_|\___|   
-  _                 _       _                     
- | |__   ___   ___ | |_ ___| |_ _ __ __ _ _ __    
- | '_ \ / _ \ / _ \| __/ __| __| '__/ _` | '_ \   
- | |_) | (_) | (_) | |_\__ \ |_| | | (_| | |_) |  
- |_.__/ \___/ \___/ \__|___/\__|_|  \__,_| .__/   
-                                         |_|      
-  _           _ _                 _       _       
- | |__   ___ (_) | ___ _ __ _ __ | | __ _| |_ ___ 
- | '_ \ / _ \| | |/ _ \ '__| '_ \| |/ _` | __/ _ \
- | |_) | (_) | | |  __/ |  | |_) | | (_| | ||  __/
- |_.__/ \___/|_|_|\___|_|  | .__/|_|\__,_|\__\___|
-                           |_|                    
-							   
 
 ## Overview :
 ### Goals : 
@@ -35,8 +16,8 @@ This repository has a Bower integration, so first just update :
     
 	
     
-### Dependencies : 
-----------
+## Dependencies : 
+
 ** This setup includes the following dependencies : **
 
 * BackboneJS
@@ -50,7 +31,7 @@ This repository has a Bower integration, so first just update :
 
   
   
-### About info:  
-----------
-Author : **Pierre LEROY**  - <leroy.pierre1@gmail.com>
-License : Apache license v2.0
+## About info:  
+
+* Author : **Pierre LEROY**  - <leroy.pierre1@gmail.com>
+* License : Apache license v2.0
