@@ -1,0 +1,32 @@
+a {
+    color: #278ada;
+}
+
+hr {
+    margin-left: 0px;
+    width: 550px;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+body {
+    padding:20px;
+}
+
+#navbar {
+    width: 550px;
+}
+
+#ascii {
+    width: 550px;
+    color: #336699;
+    font-weight: bold;
+}
+
+.updated {
+    font-weight: bolder;
+    color: darkred;
+}

@@ -1,0 +1,24 @@
+{
+  "name"        : "backbone-bootstrap-boilerplate (bbb)",
+  "version"     : "0.1.0",
+  "description" : "Backbone.Marionette with Twitter Bootstrap in a modular way (RequireJS)",
+  "main"        : "app.js",
+
+  "authors" : [
+    "Pierre LEROY - leroy.pierre1@gmail.com"
+  ],
+
+  "license"   : "Apache license v2.0",
+  "homepage"  : "https://github.com/zrk571/bbb",
+  "private"   : true,
+
+  "dependencies"  : {
+    "requirejs"             : "latest",
+    "requirejs-tpl"         : "latest",
+    "underscore"            : "latest",
+    "backbone.marionette"   : "latest",
+    "backbone.radio"        : "latest",
+    "backbone.localStorage" : "latest",
+    "bootstrap"             : "latest"
+  }
+}
